@@ -1,0 +1,67 @@
+body,div,ol,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,fieldset,legend,input,textarea,p,blockquote,th,td{
+    margin:0;
+    padding:0
+}
+.basicPanelNavWrapper{  
+    background-color:rgba(233, 233, 233, 0.7);
+    height: 86px;
+}
+.basicPanelNav{
+    display: block;
+    height:100%;
+    width:1100px;
+    margin: 0 auto;
+    background-color:white;
+    line-height:90px;
+    text-align:center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.naviBlock{
+    position: relative;
+    float:left;
+    margin-left:6.5px;
+    background-color: gold;
+    height: 110%;
+    width: 92px;
+    color: indigo;
+    font-size: 30px;
+    border-radius: 100px;
+    border: 5px solid black;
+}
+.naviBlockTitle{
+    position: relative;
+    float: right;
+    right: 5.5px;
+    background-color: white;
+    height: 100%;
+    width: 537px;
+    color: indigo;
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+.block-logo{
+    margin-top: 7px;
+    height: 92px;
+}
+.block-re{
+    height: 88px;
+}
+.block-xin{
+    height: 90px;
+}
+.block-mai{
+    height: 84px;
+}
+.block-hao{
+    height: 93px;
+}
+.block-zhu{
+    height: 90px;
+}
