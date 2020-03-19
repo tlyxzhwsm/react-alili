@@ -14,12 +14,10 @@ export default class Component01 extends React.Component {
                 <div className="basicPanel01-01"><img src={require('../images/'+imgs[0].src)} alt={imgs[0].name} className="block-img01"/></div>
                 <div className="basicPanel01-02"><img src={require('../images/'+imgs[5].src)} alt={imgs[0].name} className="block-img02"/></div>
                 <div className="basicPanel01-03"><img src={require('../images/'+imgs[3].src)} alt={imgs[0].name} className="block-img03"/></div>
-                <div className="basicPanel01-04"><img src={require('../images/'+imgs[4].src)} alt={imgs[0].name} className="block-img04"/></div>
+                <div className="basicPanel01-04"><img src={require('../images/'+imgs[24].src)} alt={imgs[0].name} className="block-img05"/></div>
                 <div className="basicPanel01-05"><img src={require('../images/'+imgs[1].src)} alt={imgs[0].name} className="block-img05"/></div>
-                <div className="basicPanel01-06"><img src={require('../images/'+imgs[6].src)} alt={imgs[0].name} className="block-img06"/></div>
+                
                 <div className="basicPanel01-07"><img src={require('../images/'+imgs[7].src)} alt={imgs[0].name} className="block-img07"/></div>
-                <div className="basicPanel01-08"><img src={require('../images/'+imgs[8].src)} alt={imgs[0].name} className="block-img08"/></div>
-                <div className="basicPanel01-09"><img src={require('../images/'+imgs[9].src)} alt={imgs[0].name} className="block-img09"/></div>
                 <div className="basicPanel01-10"><img src={require('../images/'+imgs[10].src)} alt={imgs[0].name} className="block-img10"/></div>
 
 
@@ -27,17 +25,14 @@ export default class Component01 extends React.Component {
                 <div className="basicPanel01-12"><img src={require('../images/'+imgs[12].src)} alt={imgs[0].name} className="block-img12"/></div>
                 <div className="basicPanel01-13"><img src={require('../images/'+imgs[13].src)} alt={imgs[0].name} className="block-img13"/></div>
                 <div className="basicPanel01-14"><img src={require('../images/'+imgs[14].src)} alt={imgs[0].name} className="block-img14"/></div>
-                <div className="basicPanel01-15"><img src={require('../images/'+imgs[15].src)} alt={imgs[0].name} className="block-img15"/></div>
-                <div className="basicPanel01-16"><img src={require('../images/'+imgs[16].src)} alt={imgs[0].name} className="block-img16"/></div>
+               
                 <div className="basicPanel01-17"><img src={require('../images/'+imgs[17].src)} alt={imgs[0].name} className="block-img17"/></div>
                 <div className="basicPanel01-18"><img src={require('../images/'+imgs[18].src)} alt={imgs[0].name} className="block-img18"/></div>
                 <div className="basicPanel01-19"><img src={require('../images/'+imgs[19].src)} alt={imgs[0].name} className="block-img19"/></div>
                 <div className="basicPanel01-20"><img src={require('../images/'+imgs[20].src)} alt={imgs[0].name} className="block-img20"/></div>
 
                 <div className="basicPanel01-21"><img src={require('../images/'+imgs[21].src)} alt={imgs[19].name} className="block-img21"/></div>
-                <div className="basicPanel01-22"><img src={require('../images/'+imgs[22].src)} alt={imgs[19].name} className="block-img22"/></div>
-                <div className="basicPanel01-23"><img src={require('../images/'+imgs[23].src)} alt={imgs[19].name} className="block-img23"/></div>
-                <div className="basicPanel01-24"><img src={require('../images/'+imgs[24].src)} alt={imgs[19].name} className="block-img24"/></div>
+                
                 <div className="basicPanel01-25"><img src={require('../images/'+imgs[25].src)} alt={imgs[19].name} className="block-img25"/></div>
                 <div className="basicPanel01-26"><img src={require('../images/'+imgs[26].src)} alt={imgs[19].name} className="block-img26"/></div>
                 <div className="basicPanel01-27"><img src={require('../images/'+imgs[27].src)} alt={imgs[19].name} className="block-img27"/></div>

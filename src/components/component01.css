@@ -1,7 +1,7 @@
 .basicPanel01{
 position: relative;
 float: left;
-    width:100%;
+    width:1100px;
     background-color:white;
     line-height:60px;
     text-align:center;
@@ -12,13 +12,13 @@ float: left;
 }
 .basicPanel01-01{
         position: absolute;
+        display: block;
         float: left;
         width:537.5px;
         height: 537.5px;
         background-color:white;
         border: 5px solid white;
         margin: 0 ;
-        overflow: hidden;
 }
 .basicPanel01-02{
     position: absolute;
@@ -29,7 +29,7 @@ float: left;
     background-color:white;
     border: 5px solid white;
     margin: 0 ;
-    overflow: hidden;
+
 }
 .basicPanel01-03{
     position: absolute;
@@ -46,8 +46,8 @@ float: left;
     position: absolute;
     float: left;
     top: 552.5px;
-    width:222.5px;
-    height: 535px;
+    width:537.5px;
+    height: 260px;
     background-color:white;
     overflow: hidden;
     margin: 0 ;
@@ -56,10 +56,9 @@ float: left;
 .basicPanel01-05{
     position: absolute;
     float: left;
-    top: 552.5px;
-    left: 237.5px;
-    width:300px;
-    height: 300px;
+    top: 827.5px;
+    width:537.5px;
+    height: 260px;
     background-color:white;
     overflow: hidden;
     margin: 0 ;
@@ -82,7 +81,7 @@ float: left;
     float: left;
     left: 552.5px;
     top: 552.5px;
-    width:322.5px;
+    width:537.5px;
     height: 535px;
     background-color:white;
     overflow: hidden;
@@ -108,17 +107,6 @@ float: left;
     top: 827.5px;
     width:200px;
     height: 260px;
-    background-color:white;
-    overflow: hidden;
-    margin: 0 ;
-    border: 5px solid white;
-}
-.basicPanel01-04{
-    position: absolute;
-    float: left;
-    top: 552.5px;
-    width:222.5px;
-    height: 535px;
     background-color:white;
     overflow: hidden;
     margin: 0 ;
@@ -152,7 +140,7 @@ float: left;
     left: 552.5px;
     top: 1102.5px;
     width:537.5px;
-    height:260px;
+    height:535px;
     background-color:white;
     overflow: hidden;
     margin: 0 ;
@@ -257,8 +245,8 @@ float: left;
     float: left;
     top: 1652.5px;
     left: 552.5px;
-    width:350px;
-    height:350px;
+    width:537.5px;
+    height:537.5px;
     background-color:white;
     border: 5px solid white;
     margin: 0 ;

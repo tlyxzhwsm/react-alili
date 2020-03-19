@@ -1,23 +1,43 @@
 .block-img01{
-    width:537.5px;
+    height: 537.5px;
+    width: 537.5px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img02{
-    width:261.25px;
+    height: 537.5px;
+    width: 261.5px;
+    object-fit: cover;
+    object-position: top;
+    
 }
 .block-img03{
-    width:261.25px;
+    height: 537.5px;
+    width: 261.5px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img04{
-    height: 535px;
+    width:537.5px;
+    height: 260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img05{
-    width:300px;
+    width:537.5px;
+    height: 260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img06{
-    width:300px;
+    height:300px;
+   
 }
 .block-img07{
-    width:322.5px;
+    height: 537.5px;
+    width: 537.5px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img08{
     width:200px;
@@ -27,39 +47,71 @@
 }
 .block-img10{
     width:537.5px;
+    height: 260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img11{
     width:537.5px;
+   
 }
 .block-img12{
     width:537.5px;
+    height:537.5px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img13{
     width:330px;
+    height:260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img14{
     width:192.5px;
+    height:260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img15{
     width:192.5px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img16{
     width:330px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img17{
     width:261.25px;
+    height:260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img18{
     width:261.25px;
+    height:260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img19{
     width:261.25px;
+    height:260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img20{
     width:261.25px;
+    height:260px;
+    object-fit: cover;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img21{
-    width:350px;
+    height: 537.5px;
+    width: 537.5px;
+    object-fit: cover;
 }
 .block-img22{
     width:172.5px;
@@ -72,18 +124,33 @@
 }
 .block-img25{
     width:811.25px;
+    height:260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img26{
     width:261.25px;
+    height:260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img27{
     width:261.25px;
+    height:260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img28{
     width:261.25px;
+    height:260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img29{
     width:261.25px;
+    height:260px;
+    object-fit: cover;
+    object-position: top;
 }
 .block-img30{
     height:121.25px;
